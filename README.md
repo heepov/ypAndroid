@@ -23,3 +23,6 @@
 10. Спринт 011
     - Вебинар: https://disk.yandex.ru/i/my1W7sh-Ue5Dtw
     - Код: https://github.com/avanisimov/sprint-11-koh-15
+11. Спринт 012
+    - Вебинар: https://disk.yandex.ru/i/8gW7QA6TxS1sgg
+    - Код (ссылка на репу, ветка main): https://github.com/RPetrov/Recorder
